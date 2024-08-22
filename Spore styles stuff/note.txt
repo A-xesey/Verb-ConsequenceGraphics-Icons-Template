@@ -1,0 +1,6 @@
+Если вы используете norm, то используйте "norm or hl" как hl
+Если "norm or hl" как norm, то как hl... кнопку hl.
+
+	—	—	—	—	—	—
+If you use norm, use "norm or hl" as hl
+If you use "norm or hl" as norm, use hl... hl button.
